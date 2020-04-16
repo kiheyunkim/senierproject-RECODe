@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5e444cd13928b274babcaedb447ba3ef
+labels:
+- GalacticStudios
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Tex: {fileID: 8900000, guid: ac1a80955aa17de4eba58a134d7924a0, type: 2}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

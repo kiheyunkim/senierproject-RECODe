@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: f2d32093a3871a743b26a5a653069afe
+timeCreated: 1525415445
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ceiling1
+    100002: ceiling2
+    100004: chiffonier2
+    100006: door
+    100008: floor1
+    100010: floor2
+    100012: //RootNode
+    100014: leafs
+    100016: stone
+    100018: tree
+    100020: wall1
+    100022: wall2
+    100024: wall3
+    100026: wall4
+    100028: wall5
+    100030: wall6
+    100032: wallframe
+    400000: ceiling1
+    400002: ceiling2
+    400004: chiffonier2
+    400006: door
+    400008: floor1
+    400010: floor2
+    400012: //RootNode
+    400014: leafs
+    400016: stone
+    400018: tree
+    400020: wall1
+    400022: wall2
+    400024: wall3
+    400026: wall4
+    400028: wall5
+    400030: wall6
+    400032: wallframe
+    2100000: p2 wallframe
+    2100002: p2 wall6
+    2100004: p2 wall5
+    2100006: p2 wall4
+    2100008: p2 wall3
+    2100010: p2 wall2
+    2100012: p2 wall1
+    2100014: tree
+    2100016: p2 stone
+    2100018: p2 floor2
+    2100020: p2 floor1
+    2100022: p2 door
+    2100024: chiffonier2
+    2100026: p2 ceiling2
+    2100028: p2 ceiling1
+    2100030: leafs
+    2300000: ceiling1
+    2300002: ceiling2
+    2300004: chiffonier2
+    2300006: door
+    2300008: floor1
+    2300010: floor2
+    2300012: leafs
+    2300014: stone
+    2300016: tree
+    2300018: wall1
+    2300020: wall2
+    2300022: wall3
+    2300024: wall4
+    2300026: wall5
+    2300028: wall6
+    2300030: wallframe
+    3300000: ceiling1
+    3300002: ceiling2
+    3300004: chiffonier2
+    3300006: door
+    3300008: floor1
+    3300010: floor2
+    3300012: leafs
+    3300014: stone
+    3300016: tree
+    3300018: wall1
+    3300020: wall2
+    3300022: wall3
+    3300024: wall4
+    3300026: wall5
+    3300028: wall6
+    3300030: wallframe
+    4300000: wallframe
+    4300002: wall6
+    4300004: wall5
+    4300006: wall4
+    4300008: wall3
+    4300010: wall2
+    4300012: wall1
+    4300014: tree
+    4300016: stone
+    4300018: floor2
+    4300020: floor1
+    4300022: door
+    4300024: chiffonier2
+    4300026: ceiling2
+    4300028: ceiling1
+    4300030: leafs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chiffonier2
+    second: {fileID: 2100000, guid: 6800320420b2da04c841fa73fd444a2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leafs
+    second: {fileID: 2100000, guid: 1984e1941ceb9f44891ede7ff573a4d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 ceiling1
+    second: {fileID: 2100000, guid: 0b42595270afcad46afb162a41073945, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 ceiling2
+    second: {fileID: 2100000, guid: ca842b95020ceee4c9f2e1c5bdf5a3de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 door
+    second: {fileID: 2100000, guid: 49159162fa2379f439b3e64e66bde073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 floor1
+    second: {fileID: 2100000, guid: 7f135fb3d24a16b45a1a2728472f6828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 floor2
+    second: {fileID: 2100000, guid: 0cc5f5a89d5e4bf49af6502f7783fc64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 stone
+    second: {fileID: 2100000, guid: 35c467795098e4c49be6217a00966a15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 wall1
+    second: {fileID: 2100000, guid: 22e162c87f09d5a49aa4b9682b910426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 wall2
+    second: {fileID: 2100000, guid: 97ea017b299139940883fb5f325b1c25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 wall3
+    second: {fileID: 2100000, guid: 4abba356b1b92bc4d9fb1a2a9ca92163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 wall4
+    second: {fileID: 2100000, guid: 0e2c2ca733ff143479c0d9c582d7cd57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 wall5
+    second: {fileID: 2100000, guid: e2a2b2b0cb2d5b44680b953dc47678fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 wall6
+    second: {fileID: 2100000, guid: 6b1532d8e7871934e8a5a7d1fe5bc087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p2 wallframe
+    second: {fileID: 2100000, guid: 62e4d074429d99140a32de782b8c15f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree
+    second: {fileID: 2100000, guid: 7d1203503d0ec11459b1161036d99f58, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 00ecf9a5e60445b40956d1a138db9d3c
+timeCreated: 1525415443
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: d+win-frame
+    100002: deck
+    100004: door
+    100006: frame1
+    100008: frame2
+    100010: handrail
+    100012: //RootNode
+    100014: piller
+    100016: roof1
+    100018: roof2
+    100020: roof3
+    100022: roof4
+    100024: under
+    100026: wall1
+    100028: wall2
+    100030: wall3
+    100032: wall4
+    100034: wall5
+    100036: wall6
+    100038: wall7
+    100040: win-frame1
+    100042: win-frame2
+    100044: win-frame3
+    100046: window1
+    100048: window2
+    400000: d+win-frame
+    400002: deck
+    400004: door
+    400006: frame1
+    400008: frame2
+    400010: handrail
+    400012: //RootNode
+    400014: piller
+    400016: roof1
+    400018: roof2
+    400020: roof3
+    400022: roof4
+    400024: under
+    400026: wall1
+    400028: wall2
+    400030: wall3
+    400032: wall4
+    400034: wall5
+    400036: wall6
+    400038: wall7
+    400040: win-frame1
+    400042: win-frame2
+    400044: win-frame3
+    400046: window1
+    400048: window2
+    2100000: hs d+win-frame
+    2100002: hs deck
+    2100004: hs door
+    2100006: hs frame1
+    2100008: hs frame2
+    2100010: hs handrail
+    2100012: hs piller
+    2100014: hs roof1
+    2100016: hs roof2
+    2100018: hs roof3
+    2100020: hs roof4
+    2100022: hs under
+    2100024: hs wall1
+    2100026: hs wall2
+    2100028: hs window1
+    2100030: hs window2
+    2100032: hs win-frame1
+    2100034: hs win-frame2
+    2100036: hs win-frame3
+    2100038: hs wall3
+    2100040: hs wall4
+    2100042: hs wall5
+    2100044: hs wall6
+    2100046: hs wall7
+    2300000: d+win-frame
+    2300002: deck
+    2300004: door
+    2300006: frame1
+    2300008: frame2
+    2300010: handrail
+    2300012: piller
+    2300014: roof1
+    2300016: roof2
+    2300018: roof3
+    2300020: roof4
+    2300022: under
+    2300024: wall1
+    2300026: wall2
+    2300028: wall3
+    2300030: wall4
+    2300032: wall5
+    2300034: wall6
+    2300036: wall7
+    2300038: win-frame1
+    2300040: win-frame2
+    2300042: win-frame3
+    2300044: window1
+    2300046: window2
+    3300000: d+win-frame
+    3300002: deck
+    3300004: door
+    3300006: frame1
+    3300008: frame2
+    3300010: handrail
+    3300012: piller
+    3300014: roof1
+    3300016: roof2
+    3300018: roof3
+    3300020: roof4
+    3300022: under
+    3300024: wall1
+    3300026: wall2
+    3300028: wall3
+    3300030: wall4
+    3300032: wall5
+    3300034: wall6
+    3300036: wall7
+    3300038: win-frame1
+    3300040: win-frame2
+    3300042: win-frame3
+    3300044: window1
+    3300046: window2
+    4300000: d+win-frame
+    4300002: deck
+    4300004: door
+    4300006: frame1
+    4300008: frame2
+    4300010: handrail
+    4300012: piller
+    4300014: roof1
+    4300016: roof2
+    4300018: roof3
+    4300020: roof4
+    4300022: under
+    4300024: wall1
+    4300026: wall2
+    4300028: window1
+    4300030: window2
+    4300032: win-frame1
+    4300034: win-frame2
+    4300036: win-frame3
+    4300038: wall3
+    4300040: wall4
+    4300042: wall5
+    4300044: wall6
+    4300046: wall7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs d+win-frame
+    second: {fileID: 2100000, guid: f936b32bfaed5c745b1bf37b8bcb4f39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs deck
+    second: {fileID: 2100000, guid: 9343faa3fdc0fc24fb3ef1392d7f5425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs door
+    second: {fileID: 2100000, guid: 360b7bc0855062d48a6989843cdc56f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs frame1
+    second: {fileID: 2100000, guid: 253c7b9c616ac2b40a74aa8d593aba27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs frame2
+    second: {fileID: 2100000, guid: 2f8dae164d8ddac4e85736685957301d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs handrail
+    second: {fileID: 2100000, guid: 7546c42b351158b4bb689df4a44a9b63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs piller
+    second: {fileID: 2100000, guid: b1e115407057a1143b1f3f47972e9e1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs roof1
+    second: {fileID: 2100000, guid: d66c41b2598898e488d5cadad5a53dad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs roof2
+    second: {fileID: 2100000, guid: 04bc7b0f3d23680489c3a907cf2fd4e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs roof3
+    second: {fileID: 2100000, guid: 504f981111160e44b8e4801abe167e45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs roof4
+    second: {fileID: 2100000, guid: e3fc85190cc0aa14a8cca9bae520d51d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs under
+    second: {fileID: 2100000, guid: e7d210252159d6042947c4044ca9449d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs wall1
+    second: {fileID: 2100000, guid: b62c1fff8f0cfac4f8e6938cef9f2c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs wall2
+    second: {fileID: 2100000, guid: 1bbcb4177e3496e4ebfe8235dbc47b4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs wall3
+    second: {fileID: 2100000, guid: 6296b83aa1c958e45af782c5ec365893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs wall4
+    second: {fileID: 2100000, guid: 88a441663dcab6b4aa8647ce938cd84d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs wall5
+    second: {fileID: 2100000, guid: 67738afb8ffd766488777cb676119578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs wall6
+    second: {fileID: 2100000, guid: 282a64a35a8c3ee48ae20e1a70c674a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs wall7
+    second: {fileID: 2100000, guid: 1c464539d14fe214c8a2308f1d0bfc58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs win-frame1
+    second: {fileID: 2100000, guid: b337062a50e8881409e1e27cf93a15f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs win-frame2
+    second: {fileID: 2100000, guid: 550ad5856f18e494dbe7c7a10a15fde8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs win-frame3
+    second: {fileID: 2100000, guid: 3fd38f3256d9729419cf2f230c98c131, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs window1
+    second: {fileID: 2100000, guid: 6ffac770fdd19844b86fd72daed27765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hs window2
+    second: {fileID: 2100000, guid: 5f030b3e01e604240b9055802e4da7ef, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Ultra Skybox Fog\Manual.txt">
+    <Files>
+      <File FileName="Assets\Script\Main\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Load\SaveImageController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Load\LoadMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Shader\MapDissolve.shader" Line="1" Column="1" />
+      <File FileName="Assets\Script\Stage1\Puzzle\Bag.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Stage1\Puzzle\GameCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Stage1\CameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Option\OptionControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Ultra Skybox Fog\Manual.txt" Line="16" Column="45" />
+      <File FileName="Temp\Compiled-Galactic Studios-Ultra Skybox Fog.shader" Line="1" Column="1" />
+      <File FileName="Assets\Ultra Skybox Fog\Shaders\UltraSkyboxFog.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: ac9524cdc6d65e1499e3068edb165bb5
+timeCreated: 1525415444
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ceiling1
+    100002: ceiling2
+    100004: ceiling3
+    100006: floor1
+    100008: floor2
+    100010: floor3
+    100012: //RootNode
+    100014: stair1
+    100016: stair2
+    100018: stair3
+    100020: stair4
+    100022: wall1
+    100024: wall2
+    100026: wall3
+    100028: wall4
+    400000: ceiling1
+    400002: ceiling2
+    400004: ceiling3
+    400006: floor1
+    400008: floor2
+    400010: floor3
+    400012: //RootNode
+    400014: stair1
+    400016: stair2
+    400018: stair3
+    400020: stair4
+    400022: wall1
+    400024: wall2
+    400026: wall3
+    400028: wall4
+    2100000: p1 ceiling1
+    2100002: p1 ceiling2
+    2100004: p1 ceiling3
+    2100006: p1 floor1
+    2100008: p1 floor2
+    2100010: p1 floor3
+    2100012: p1 stair1
+    2100014: p1 stair2
+    2100016: p1 stair3
+    2100018: p1 stair4
+    2100020: p1 wall4
+    2100022: p1 wall1
+    2100024: p1 wall2
+    2100026: p1 wall3
+    2300000: ceiling1
+    2300002: ceiling2
+    2300004: ceiling3
+    2300006: floor1
+    2300008: floor2
+    2300010: floor3
+    2300012: stair1
+    2300014: stair2
+    2300016: stair3
+    2300018: stair4
+    2300020: wall1
+    2300022: wall2
+    2300024: wall3
+    2300026: wall4
+    3300000: ceiling1
+    3300002: ceiling2
+    3300004: ceiling3
+    3300006: floor1
+    3300008: floor2
+    3300010: floor3
+    3300012: stair1
+    3300014: stair2
+    3300016: stair3
+    3300018: stair4
+    3300020: wall1
+    3300022: wall2
+    3300024: wall3
+    3300026: wall4
+    4300000: ceiling1
+    4300002: ceiling2
+    4300004: ceiling3
+    4300006: floor1
+    4300008: floor2
+    4300010: floor3
+    4300012: stair1
+    4300014: stair2
+    4300016: stair3
+    4300018: stair4
+    4300020: wall4
+    4300022: wall1
+    4300024: wall2
+    4300026: wall3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 ceiling1
+    second: {fileID: 2100000, guid: 98dc01fb487d77e46b620d350ca91f29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 ceiling2
+    second: {fileID: 2100000, guid: 64b1e730159f8cf48b28967096b946a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 ceiling3
+    second: {fileID: 2100000, guid: ec5245c7d2895654093ae0177bbf3312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 floor1
+    second: {fileID: 2100000, guid: 1b910aeea2bc6df4393a9c7d11f7cc26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 floor2
+    second: {fileID: 2100000, guid: 3a51eb3a87924fb45804d877009348fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 floor3
+    second: {fileID: 2100000, guid: 1dcd3c4232c3cd34d8ce1e6c705458ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 stair1
+    second: {fileID: 2100000, guid: 89f50c6d8a191bc41a6e5460b31c92aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 stair2
+    second: {fileID: 2100000, guid: eed7db753450ba34a955a259b322d513, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 stair3
+    second: {fileID: 2100000, guid: c7fea0bacc804d3478f61b0e52ff2e92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 stair4
+    second: {fileID: 2100000, guid: 4f057dd6f7fc6e943922429c4059ee47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 wall1
+    second: {fileID: 2100000, guid: 268cff37e75db9f4da6143ffea4e256b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 wall2
+    second: {fileID: 2100000, guid: 45905a6ff9c952941b5f5cd680332832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 wall3
+    second: {fileID: 2100000, guid: f087f7edb983c2044b2b94387a5026bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p1 wall4
+    second: {fileID: 2100000, guid: 6e5dab9b0f6bbe5429b67f30f7418163, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
